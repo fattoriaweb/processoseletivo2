@@ -8,7 +8,7 @@
 
 	<header>
 		<ul class="nav nav-tabs">
-			<li class="active"><a href="index.jsp">InÌcio</a></li>
+			<li class="active"><a href="index.jsp">In√≠cio</a></li>
 			<li><a href="#">Cadastrar produto</a></li>
 			<li><a href="#">Listar produtos</a></li>
 		</ul>
@@ -17,41 +17,41 @@
 		<h3>Sobre o desafio</h3>
 		<p>Criar um sistema com CRUD de produtos</p>
 
-		<h3>Requisistos do desafio</h3>
+		<h3>Requisitos do desafio</h3>
 		<ol>
 			<li>
-				<p>O sistema dever· ter um formul·rio para cadastro de produto com os campos: nome, preÁo, quantidade e data de cadastro. (Cadastrar produtos)</p>
+				<p>O sistema dever√° ter um formul√°rio para cadastro de produto com os campos: nome, pre√ßo, quantidade e data de cadastro. (Cadastrar produtos)</p>
 			</li>
 			<li>
-				<p>O sistema dever· ter uma p·gina com uma tabela para mostrar os dados cadastrados pelo formul·rio. (Listar produtos)</p>
+				<p>O sistema dever√° ter uma p√°gina com uma tabela para mostrar os dados cadastrados pelo formul√°rio. (Listar produtos)</p>
 			</li>
 			<li>
-				<p>Na tabela dever· ter a opÁ„o para editar e remover o produto.</p>
+				<p>Na tabela dever√° ter a op√ß√£o para editar e remover o produto.</p>
 			</li>
 			<li>
-				<p>Colocar no seu Github o cÛdigo do projeto e enviar o link para o email: rh@fattoriaweb.com.br</p>
+				<p>Colocar no seu Github o c√≥digo do projeto e enviar o link para o email: rh@fattoriaweb.com.br</p>
 			</li>
 			<li>
-				<p>(DIFERENCIAL) VocÍ pode deixar seu cÛdigo rodando na web, para que possamos analis·-lo. (AWS, Heroku, Openshift...)
+				<p>(DIFERENCIAL) Voc√™ pode deixar seu c√≥digo rodando na web, para que possamos analis√°-lo. (AWS, Heroku, Openshift...)
 				</p>
 			</li>
 			
 		</ol>
 	</section>
 	<section>
-		<h3>Requisitos tÈcnicos</h3>
+		<h3>Requisitos t√©cnicos</h3>
 		<ol>
 			<li>
 				<p>O projeto deve utilizar Maven e Java 8. Pode utilizar este projeto como base.</p>
 			</li>
 			<li>
-				<p>Deve conter validaÁıes nos formul·rios tanto no frontend quanto no backend</p>
+				<p>Deve conter valida√ß√µes nos formul√°rios tanto no frontend quanto no backend</p>
 			</li>
 			<li>
 				<p>Importante demonstrar conhecimento de Javascript. Pode utilizar bibliotecas ou frameworks (AngularJS, Jquery, React...)</p>
 			</li>
 			<li>
-				<p>N„o È necess·rio utilizar banco de dados.</p>
+				<p>N√£o √© necess√°rio utilizar banco de dados.</p>
 			</li>
 			<li>
 				<p>(DIFERENCIAL) Utilizar banco de dados relacional e Hibernate no projeto.</p>
