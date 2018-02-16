@@ -1,12 +1,12 @@
 # Sobre o desafio
-Criar um sistema com CRUD de produtos
+Criar um em curtador de url's com CRUD.
 
 # Requisitos do desafio
- - O sistema deverá ter um formulário para cadastro de produto com os campos: nome, preço, quantidade e data de cadastro. (Cadastrar produtos)
+ - O sistema deverá encurtar uma URL que deverá ser informada através de um formulário.
 
- - O sistema deverá ter uma página com uma tabela para mostrar os dados cadastrados pelo formulário. (Listar produtos)
+ - O sistema deverá ter uma tabela para mostrar as URLs cadastradas e sua réplica encurtada cadastradas pelo formulário. (Listar)
 
- - Na tabela deverá ter a opção para editar e remover o produto.
+ - Na tabela deverá ter a opção para editar e remover a URL.
 
  - Colocar no seu Github o código do projeto e enviar o link para o email: rh@fattoriaweb.com.br
 
