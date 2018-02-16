@@ -19,6 +19,4 @@ Criar um encurtador de url's com CRUD.
 
  - Importante demonstrar conhecimento de Javascript. Pode utilizar bibliotecas ou frameworks (AngularJS, Jquery, React...)
 
- - Não é necessário utilizar banco de dados.
-
  - (DIFERENCIAL) Utilizar banco de dados relacional e Hibernate no projeto.
