@@ -9,24 +9,24 @@
 	<header>
 		<ul class="nav nav-tabs">
 			<li class="active"><a href="index.jsp">Início</a></li>
-			<li><a href="#">Cadastrar produto</a></li>
-			<li><a href="#">Listar produtos</a></li>
+			<li><a href="#">Cadastrar URL</a></li>
+			<li><a href="#">Listar URL</a></li>
 		</ul>
 	</header>
 	<section>
 		<h3>Sobre o desafio</h3>
-		<p>Criar um sistema com CRUD de produtos</p>
+		<p>Criar um encurtador de url's com CRUD</p>
 
 		<h3>Requisitos do desafio</h3>
 		<ol>
 			<li>
-				<p>O sistema deverá ter um formulário para cadastro de produto com os campos: nome, preço, quantidade e data de cadastro. (Cadastrar produtos)</p>
+				<p>O sistema deverá encurtar uma URL que deverá ser informada através de um formulário./p>
 			</li>
 			<li>
-				<p>O sistema deverá ter uma página com uma tabela para mostrar os dados cadastrados pelo formulário. (Listar produtos)</p>
+				<p>O sistema deverá ter uma tabela para mostrar as URLs cadastradas e sua réplica encurtada cadastradas pelo formulário. (Listar)</p>
 			</li>
 			<li>
-				<p>Na tabela deverá ter a opção para editar e remover o produto.</p>
+				<p>Na tabela deverá ter a opção para editar e remover a URL.</p>
 			</li>
 			<li>
 				<p>Colocar no seu Github o código do projeto e enviar o link para o email: rh@fattoriaweb.com.br</p>
@@ -49,9 +49,6 @@
 			</li>
 			<li>
 				<p>Importante demonstrar conhecimento de Javascript. Pode utilizar bibliotecas ou frameworks (AngularJS, Jquery, React...)</p>
-			</li>
-			<li>
-				<p>Não é necessário utilizar banco de dados.</p>
 			</li>
 			<li>
 				<p>(DIFERENCIAL) Utilizar banco de dados relacional e Hibernate no projeto.</p>
