@@ -1,5 +1,5 @@
 # Sobre o desafio
-Criar um em curtador de url's com CRUD.
+Criar um encurtador de url's com CRUD.
 
 # Requisitos do desafio
  - O sistema deverá encurtar uma URL que deverá ser informada através de um formulário.
