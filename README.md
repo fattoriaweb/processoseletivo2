@@ -19,4 +19,6 @@ Criar um encurtador de url's com CRUD.
 
  - Importante demonstrar conhecimento de Javascript. Pode utilizar bibliotecas ou frameworks (AngularJS, Jquery, React...)
 
- - (DIFERENCIAL) Utilizar banco de dados relacional e Hibernate no projeto.
+ - Utilizar um framework mvc no backend (spring mvc, jsf ).
+
+ - Utilizar framework de ORM no projeto (hibernate, jpa, etc ).
