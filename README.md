@@ -21,4 +21,4 @@ Criar um encurtador de url's com CRUD.
 
  - Utilizar framework de ORM no projeto (hibernate, jpa, etc ).
  
- - (DIFERENCIAL) Demonstrar conhecimento de Javascript/Jquery ou frameworks (AngularJS, Jquery, React...)
+ - (DIFERENCIAL) Demonstrar conhecimento de Javascript/Jquery ou frameworks (AngularJS, React...)
