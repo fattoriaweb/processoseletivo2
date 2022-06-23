@@ -17,8 +17,6 @@ Criar um encurtador de url's com CRUD.
 
  - Deve conter validações tanto no frontend quanto no backend
 
- - Utilizar um framework mvc no backend (spring mvc, jsf ).
+ - Utilizar um framework mvc no backend (spring mvc, springboot).
 
  - Utilizar framework de ORM no projeto (hibernate, jpa, etc ).
- 
- - (DIFERENCIAL) Demonstrar conhecimento de Javascript/Jquery ou frameworks (AngularJS, React...)
